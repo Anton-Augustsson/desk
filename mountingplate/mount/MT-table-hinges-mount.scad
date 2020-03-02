@@ -1,10 +1,10 @@
 // Hight of router is 14
 height = 16;  // 2 depth 
 removalHeight = height+31;
-cylinderRadius = 15;
+cylinderRadius = 15.25;
 rectangerlWith = 
     cylinderRadius*2;
-rectangerlLenght = 17;
+rectangerlLenght = 17+4.5;
 tamplateWith = 100;
 tamplateLenght = 80;
 bracketsExtraHight = 15;
