@@ -100,7 +100,7 @@ translate([
     amplifierLength,
     oakThicknes]);
     
-// top solid
+// table top
 translate([
     -topExtensionWidth,
     -topExtensionLength,
@@ -110,8 +110,7 @@ translate([
     oakThicknes]);
 
 
-// top foldebal
-
+// table top foldebal
 translate([
     -topExtensionWidth,
     -topExtensionLength,
@@ -120,7 +119,7 @@ translate([
     topLength,
     oakThicknes]);
 /*
-// top folded
+// table top folded
 translate([
     -topExtensionWidth,
     -topLength
